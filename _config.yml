@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Breaks And Builds
 description: A weekly update on all the breaks and builds I do.
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "" # empty: abid-sayyad.github.io is served from the domain root
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_repo: blog # the GitHub repo name for your project
 github_username: abid-sayyad

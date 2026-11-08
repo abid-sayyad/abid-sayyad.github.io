@@ -3,7 +3,7 @@ layout: page
 title: About 
 permalink: /about/
 ---
-<img src="/blog/assets/profile.jpg" width="250" align="right">
+<img src="{{ site.baseurl }}/assets/profile.jpg" width="250" align="right">
 
 ## Hey there, I'm Abid.  
 I love building cool pieces of tech. Why?  
